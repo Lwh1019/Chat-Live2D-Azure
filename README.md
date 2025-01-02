@@ -61,3 +61,8 @@
 
 ![image](https://github.com/user-attachments/assets/bc713f39-ceda-4bf8-974c-a78c000f3267)
 
+# 聊天记录框（目前显示最近的两条信息）
+
+![image](https://github.com/user-attachments/assets/1af67e54-0db1-4e31-a835-59cae6151533)
+
+
